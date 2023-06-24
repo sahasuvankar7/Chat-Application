@@ -1,0 +1,2 @@
+to run this project go to browser url section there you have to type localhost:3000 . bcz here we are choosing port number 3000
+-> after to run this project user : npm run dev ( make sure socket.io , nodemon , npm all are already installed in your machine otherwise you have to download it )
