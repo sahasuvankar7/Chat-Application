@@ -8,14 +8,14 @@ all the other user those who are online can see this message .
 To run this program install : <br>
 open New Terminal There you have to write :<br>
 
-### step 1) create npm project
+### Step 1) Create npm project
 ```
 npm init -y
 
 ```
-### step 2) create Index , CSS , Js Files <br>
+### Step 2) Create Index , CSS , JS files <br>
 
-### step 3) Install dependencies , express , nodemon(dev dep.)
+### Step 3) Install dependencies , express , nodemon(dev dep.)
 
 ```
 npm install express
@@ -25,29 +25,29 @@ npm install express
 npm install nodemon -D
 
 ```
-### step 4 ) install socket.io 
+### Step 4 ) install socket.io 
 
 ```
 npm install socket.io
 
 ```
-### step 5) To run Node Server use:
+### Step 5) To run Node Server use:
 
 ```
 npm run dev
 
 ```
-### step 6) 
+### Step 6) 
 After running the command go to  URL section in you browser there type `localhost:3000` (because Just a random port No is selected in this project . So, the data is passed through the port no. which is 3000) . After typing
 localhost:3000 a prompt section will be visible at the top of webpage . There you type any name whatever you want . <br>
 
-### step 7)
-Repeate step 6 again by opening a new tab ( don't close previous tab ) . <br>
+### Step 7)
+Repeate Step 6 again by opening a new tab ( don't close previous tab ) . <br>
 
-### step 8) 
+### Step 8) 
 Now type some message and send message in the chat <br>
 
-### step 9)
+### Step 9)
 After sending the message in chat , the other user can see and receive your message and he or she can also send some message which can also be seen by you. 
 
 # Technology Used :
