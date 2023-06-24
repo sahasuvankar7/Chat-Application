@@ -13,7 +13,7 @@ open New Terminal There you have to write :<br>
 npm init -y
 
 ```
-### Step 2) Create Index , CSS , JS files <br>
+### Step 2) Create HTMl , CSS , JS files <br>
 
 ### Step 3) Install dependencies , express , nodemon(dev dep.)
 
