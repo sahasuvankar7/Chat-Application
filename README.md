@@ -14,6 +14,7 @@ npm init -y
 
 ```
 ### Step 2) Create HTML , CSS , JS files <br>
+Here you have to create 2 JavaScript files ,One is for Creating Client side Javascript(Client.js) and another is for Server Side JavaScript(Server.js) 
 
 ### Step 3) Install dependencies , express , nodemon(dev dep.)
 
